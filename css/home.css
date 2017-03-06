@@ -19,3 +19,12 @@
     		text-align: center;
 		margin: 3%;
 		}
+		.vermais {
+		background-color: #a22222;
+		border: 10px;
+		border-radius: 5px;
+		width: 100px;
+		text-align: center;
+		color: black;
+		border-color: #a22222;
+}
